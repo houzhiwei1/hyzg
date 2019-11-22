@@ -24,7 +24,7 @@ public class CarResourceService {
     private CarResourceMapper carResourceMapper;
 
     @Autowired
-    private CarTypeService carTypeService;
+    private CarTypeService carTypeService;//   jhbubkj
     @Autowired
     private UnitService unitService;
     @Autowired
